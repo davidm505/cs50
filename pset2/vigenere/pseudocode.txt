@@ -1,0 +1,9 @@
+Iteratre through each char of command line arg and make sure they are all apart of the alphabet.
+If a char is not alphabetic, print the prompt, return 0
+Maybe while we are already doing this, we can check if the chars are upper or lower and then shift their value, and store that in an array. 
+Prompt the user for plaintext that they want to encrypt. 
+Create for loop for string. 
+check if char is alphabetic
+Check if char is upper or lower
+apply shift value to original char, add char to array
+create a for loop to print every value of the array. 

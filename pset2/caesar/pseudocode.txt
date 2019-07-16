@@ -1,0 +1,11 @@
+Get user input as a string. 
+Iterate through the string to check for non digits
+if non-digits
+  error
+else
+  continue
+Prompt for text
+iterate through prompt text for non alphabet chars
+if char is alphabet add the key
+if ascii + key is greater than max alphabet number, loop
+print text
