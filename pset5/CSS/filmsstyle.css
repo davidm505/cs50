@@ -1,0 +1,99 @@
+.box
+{
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.TB
+{
+    margin-top: 10em;
+    transition: all .3s ease-in-out;
+}
+
+.TB:hover
+{
+    transform: scale(1.1);
+}
+
+.FC
+{
+    transition: all .3s ease-in-out;
+}
+
+.FC:hover
+{
+    transform: scale(1.1);
+}
+
+.MR3
+{
+    margin-top: 14em;
+    transition: all .3s ease-in-out;
+}
+
+.MR3:hover
+{
+    transform: scale(1.1);
+}
+
+.YH
+{
+    transition: all .3s ease-in-out;
+}
+
+.YH:hover
+{
+    transform: scale(1.1);
+}
+
+.MT2
+{
+    margin-top: 10em;
+    transition: all .3s ease-in-out;
+}
+
+.MT2:hover
+{
+    transform: scale(1.1);
+}
+
+.credit-container
+{
+    margin-bottom: 0rem;
+}
+
+.credit
+{
+    font-style: italic;
+}
+
+img
+{
+    height: 350px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+body
+{
+    background-color: rgb(0, 0, 0) !important;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../imgs/pawel-czerwinski-tMbQpdguDVQ-unsplash.jpg");
+    background-position: top;
+    background-size: cover;
+}
+
+p
+{
+    text-align: center;
+    color: white;
+    font-size: .7em;
+    margin-bottom: 0rem;
+}
+
+a
+{
+    text-decoration: none !important;
+}

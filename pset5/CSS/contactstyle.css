@@ -1,0 +1,16 @@
+.box
+{
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+
+body
+{
+    background-color: rgb(240, 240, 240) !important;
+}
+
+iframe
+{
+    padding-top: 1em;
+}

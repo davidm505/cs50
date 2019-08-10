@@ -1,0 +1,22 @@
+#title
+{
+    font-size: 5em;
+    font-weight: bold;
+    padding-top: 1em;
+}
+
+#sm-title
+{
+    font-size: .6em;
+    color: rgb(233, 233, 233);
+}
+
+html, body
+{
+    height: 100%;
+}
+
+p
+{
+    text-align: center;
+}
